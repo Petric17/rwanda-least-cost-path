@@ -1,0 +1,8 @@
+
+*.npy
+*.tif
+*.tiff
+
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
